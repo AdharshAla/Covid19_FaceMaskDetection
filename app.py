@@ -15,7 +15,7 @@ from image_resize import maintain_aspect_ratio_resize
 
 # Invoke the Flask app
 app = Flask(__name__)
-UPLOAD_FOLDER = '.\\image_save'
+UPLOAD_FOLDER = './image_save'
 # Define a flask app
 app = Flask(__name__)
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
