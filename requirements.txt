@@ -108,16 +108,3 @@ threadpoolctl==2.1.0
 toml==0.10.2
 toolz==0.11.1
 tornado==6.1
-tqdm==4.53.0
-traitlets==5.0.5
-tzlocal==2.1
-urllib3==1.26.2
-validators==0.18.1
-watchdog==0.10.4
-wcwidth==0.2.5
-webencodings==0.5.1
-Werkzeug==1.0.1
-widgetsnbextension==3.5.1
-wincertstore==0.2
-wrapt==1.12.1
-zipp==3.4.0
