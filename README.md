@@ -1,18 +1,21 @@
 # Covid19 Multi Label Face Mask Detection
 
+This project is under preservation of copyright and license notices from MIT.
+
+
 ## Table of Contents
 - [About The Project](#-About-The-Project)
-  - [Built With](#Built-With)
-  - [Getting Started](#Getting-Started)
-  - [Installation](#Installation)
-  - [Data Creation](#Data-Creation)
-  - [Data Preprocessing](#Data-Preprocessing)
-  - [CNN](#CNN)
-  - [Transfer Learning](#Transfer-Learning)
-  - [Hyper parameter Tuning](#Hyper-parameter-Tuning)
-  - [Model Creation](#Model-Creation)
-  - [Face Detection](#Face-Detection)
-  - [Model Deployment](#Model-Deployment)
+- [Built With](#Built-With)
+- [Getting Started](#Getting-Started)
+- [Installation](#Installation)
+- [Data Creation](#Data-Creation)
+- [Data Preprocessing](#Data-Preprocessing)
+- [CNN](#CNN)
+- [Transfer Learning](#Transfer-Learning)
+- [Hyper parameter Tuning](#Hyper-parameter-Tuning)
+- [Model Creation](#Model-Creation)
+- [Face Detection](#Face-Detection)
+- [Model Deployment](#Model-Deployment)
 
 - [Contact](#Contact)
 - [Acknowledgements](#Acknowledgements)
